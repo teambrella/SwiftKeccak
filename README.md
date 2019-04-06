@@ -1,5 +1,7 @@
 # SwiftKeccak
 
+```This is a fork.  There is no spoon.  The original is [here](https://github.com/uport-project/SwiftKeccak).  Updated to work with Swift 4.2 and 5.```
+
 This is an implementation of Keccak 256 the hash function used in Ethereum as well as the final version of the Sha3 as published by NIST.
 
 It is a wrapper around an older version of the [keccak-tiny](https://github.com/coruus/keccak-tiny) library.
